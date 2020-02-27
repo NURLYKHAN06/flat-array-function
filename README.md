@@ -1,5 +1,6 @@
 Expand function to matrix arrays.
 
+Before:
 ```javascript
 [
   {
@@ -44,6 +45,46 @@ Expand function to matrix arrays.
   },
   {
     label: 9
+  }
+]
+```
+
+
+After: ```
+javascript
+ [
+  {
+    label:1
+  },
+  {
+    label:6
+  },
+  {
+    label:4
+  },
+  {
+    label:5
+  },
+  {
+    label:3
+  },
+  {
+    label:2
+  },
+  {
+    label:7
+  },
+  {
+    label:11
+  },
+  {
+    label:10
+  },
+  {
+    label:8
+  },
+  {
+    label:9
   }
 ]
 ```
