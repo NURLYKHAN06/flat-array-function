@@ -1,4 +1,4 @@
-#Expand function to matrix arrays.#
+# Expand function to matrix arrays. #
 
 Before:
 ```javascript
