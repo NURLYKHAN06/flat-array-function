@@ -50,8 +50,9 @@ Before:
 ```
 
 
-After: ```javascript
- [
+After:
+```javascript
+[
   {
     label:1
   },
